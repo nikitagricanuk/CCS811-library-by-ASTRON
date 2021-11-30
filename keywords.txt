@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+CCS811 KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin KEYWORD2
+readCO2 KEYWORD2
+readCO2mg KEYWORD2
+readTVOC KEYWORD2
+ASTRON_CCS811 KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+CCS811_MODE_IDLE LITERAL1
+CCS811_MODE_1SEC LITERAL1
+CCS811_MODE_10SEC LITERAL1
+CCS811_MODE_60SEC LITERAL1
+ADDRESS LITERAL1
+ALT_ADDRESS LITERAL1
